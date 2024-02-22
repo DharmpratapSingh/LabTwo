@@ -3,7 +3,7 @@
     "path": "~/STAT-RFiles/LabTwo/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "3391677182",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1708570147387.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,21",
+        "cursorPosition": "16,18",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1708570641,
+    "lastKnownWriteTime": 1708571044,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1708570641361,
+    "last_content_update": 1708571044881,
     "read_only": false,
     "read_only_alternatives": []
 }
