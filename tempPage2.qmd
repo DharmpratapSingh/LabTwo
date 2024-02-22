@@ -1,0 +1,5 @@
+---
+title: "tempPage2"
+---
+
+This is temporary dummy Page.
